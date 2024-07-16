@@ -1,0 +1,6 @@
+s.no   name    sal   grade  
+1      Naveen  1000    A
+2      kumar   2000    B
+3      sai     3000    c
+4      baba    4000    D
+5      Tarak   1000    C
